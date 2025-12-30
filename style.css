@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,500..800;1,300..800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+#photoInput1, #photoInput2, #photoInput3, #photoInput4,#photoInput5 {
+  display: none;
+}
+#video {
+  display: none;
+}
+input[type="file"] {
+  display: none;
+}
+
+
+
+
+
+
